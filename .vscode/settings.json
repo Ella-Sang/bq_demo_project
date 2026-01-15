@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "/Users/billy/Documents/DBT_Project/dbt-bigquery-project/venv/bin/python3",
+    "dbt.dbtPythonPathOverride": "/Users/billy/Documents/DBT_Project/dbt-bigquery-project/venv/bin/python3"
+}
